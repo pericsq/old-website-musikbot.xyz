@@ -1,0 +1,609 @@
+[
+  {
+    "name": "3d",
+    "category": "Filter",
+    "description": "Turning on 3d filter",
+    "usage": "/3d"
+  },
+  {
+    "name": "bass",
+    "category": "Filter",
+    "description": "Turning on bass filter",
+    "usage": "/bass"
+  },
+  {
+    "name": "bassboost",
+    "category": "Filter",
+    "description": "Turning on bassboost filter",
+    "usage": "/bassboost"
+  },
+  {
+    "name": "china",
+    "category": "Filter",
+    "description": "Turning on china filter",
+    "usage": "/china"
+  },
+  {
+    "name": "chipmunk",
+    "category": "Filter",
+    "description": "Turning on chipmunk filter",
+    "usage": "/chipmunk"
+  },
+  {
+    "name": "darthvader",
+    "category": "Filter",
+    "description": "Turning on darthvader filter",
+    "usage": "/darthvader"
+  },
+  {
+    "name": "daycore",
+    "category": "Filter",
+    "description": "Turning on daycore filter",
+    "usage": "/daycore"
+  },
+  {
+    "name": "doubletime",
+    "category": "Filter",
+    "description": "Turning on doubletime filter",
+    "usage": "/doubletime"
+  },
+  {
+    "name": "earrape",
+    "category": "Filter",
+    "description": "Turning on earrape filter",
+    "usage": "/earrape"
+  },
+  {
+    "name": "electronic",
+    "category": "Filter",
+    "description": "Turning on electronic filter",
+    "usage": "/electronic"
+  },
+  {
+    "name": "equalizer",
+    "category": "Filter",
+    "description": "Turning on equalizer filter",
+    "usage": "/equalizer",
+    "options": ["bands"]
+  },
+  {
+    "name": "karaoke",
+    "category": "Filter",
+    "description": "Turning on karaoke filter",
+    "usage": "/karaoke"
+  },
+  {
+    "name": "nightcore",
+    "category": "Filter",
+    "description": "Turning on nightcore filter",
+    "usage": "/nightcore"
+  },
+  {
+    "name": "party",
+    "category": "Filter",
+    "description": "Turning on party filter",
+    "usage": "/party"
+  },
+  {
+    "name": "pitch",
+    "category": "Filter",
+    "description": "Turning on pitch filter",
+    "usage": "/pitch <number>"
+  },
+  {
+    "name": "pop",
+    "category": "Filter",
+    "description": "Turning on pop filter",
+    "usage": "/pop"
+  },
+  {
+    "name": "radio",
+    "category": "Filter",
+    "description": "Turning on radio filter",
+    "usage": "/radio"
+  },
+  {
+    "name": "rate",
+    "category": "Filter",
+    "description": "Turning on rate filter",
+    "usage": "/pitch <number>"
+  },
+  {
+    "name": "reset",
+    "category": "Filter",
+    "description": "Turning on reset filter",
+    "usage": "/reset"
+  },
+  {
+    "name": "slowmotion",
+    "category": "Filter",
+    "description": "Turning on slowmotion filter",
+    "usage": "/slowmotion"
+  },
+  {
+    "name": "soft",
+    "category": "Filter",
+    "description": "Turning on soft filter",
+    "usage": "/soft"
+  },
+  {
+    "name": "speed",
+    "category": "Filter",
+    "description": "Turning on speed filter",
+    "usage": "/speed <number>"
+  },
+  {
+    "name": "superbass",
+    "category": "Filter",
+    "description": "Turning on superbass filter",
+    "usage": "/superbass"
+  },
+  {
+    "name": "television",
+    "category": "Filter",
+    "description": "Turning on television filter",
+    "usage": "/television"
+  },
+  {
+    "name": "treblebass",
+    "category": "Filter",
+    "description": "Turning on treblebass filter",
+    "usage": "/treblebass"
+  },
+  {
+    "name": "tremolo",
+    "category": "Filter",
+    "description": "Turning on tremolo filter",
+    "usage": "/tremolo"
+  },
+  {
+    "name": "vaporwave",
+    "category": "Filter",
+    "description": "Turning on vaporwave filter",
+    "usage": "/vaporwave"
+  },
+  {
+    "name": "vibrate",
+    "category": "Filter",
+    "description": "Turning on vibrate filter",
+    "usage": "/vibrate"
+  },
+  {
+    "name": "vibrato",
+    "category": "Filter",
+    "description": "Turning on vibrato filter",
+    "usage": "/vibrato"
+  },
+  {
+    "name": "autoplay",
+    "category": "Music",
+    "description": "Autoplay music (Random play songs)",
+    "usage": "/autoplay"
+  },
+  {
+    "name": "clearqueue",
+    "category": "Music",
+    "description": "Clear song in queue!",
+    "usage": "/clearqueue"
+  },
+  {
+    "name": "forcejoin",
+    "category": "Music",
+    "description": "Make the bot forcefully join the voice channel",
+    "usage": "/forcejoin"
+  },
+  {
+    "name": "forward",
+    "category": "Music",
+    "description": "Forward timestamp in the song! (10s)",
+    "usage": "/forward"
+  },
+  {
+    "name": "insert",
+    "category": "Music",
+    "description": "Insert a song into a specific position in queue",
+    "usage": "/insert"
+  },
+  {
+    "name": "join",
+    "category": "Music",
+    "description": "Make the bot join the voice channel",
+    "usage": "/join"
+  },
+  {
+    "name": "lofi",
+    "category": "Music",
+    "description": "Play a lofi radio station",
+    "usage": "/lofi"
+  },
+  {
+    "name": "loop",
+    "category": "Music",
+    "description": "Loop song in queue type all/current",
+    "usage": "/loop"
+  },
+  {
+    "name": "lyrics",
+    "category": "Music",
+    "description": "Searching lyrics current song",
+    "usage": "/lyrics"
+  },
+  {
+    "name": "nowplaying",
+    "category": "Music",
+    "description": "Display the song currently playing",
+    "usage": "/nowplaying"
+  },
+  {
+    "name": "pause",
+    "category": "Music",
+    "description": "Pause the music",
+    "usage": "/pause"
+  },
+  {
+    "name": "play",
+    "category": "Music",
+    "description": "Play a song from any types",
+    "usage": "/play <name_or_url>"
+  },
+  {
+    "name": "previous",
+    "category": "Music",
+    "description": "Play the previous song in the queue",
+    "usage": "/previous"
+  },
+  {
+    "name": "queue",
+    "category": "Music",
+    "description": "Show the queue of songs",
+    "usage": "/queue"
+  },
+  {
+    "name": "radiofm",
+    "category": "Music",
+    "description": "Play radio fm station",
+    "usage": "/radiofm <number>"
+  },
+  {
+    "name": "remove",
+    "category": "Music",
+    "description": "Remove song from queue",
+    "usage": "/remove <position>"
+  },
+  {
+    "name": "replay",
+    "category": "Music",
+    "description": "Replay the current song",
+    "usage": "/replay"
+  },
+  {
+    "name": "resume",
+    "category": "Music",
+    "description": "Resume the music",
+    "usage": "/resume"
+  },
+  {
+    "name": "rewind",
+    "category": "Music",
+    "description": "Rewind timestamp in the song! (10s)",
+    "usage": "/rewind"
+  },
+  {
+    "name": "seek",
+    "category": "Music",
+    "description": "Seek timestamp in the song",
+    "usage": "/seek <time_format. Ex: 999:59>"
+  },
+  {
+    "name": "shuffle",
+    "category": "Music",
+    "description": "Shuffle song in queue",
+    "usage": "/shuffle"
+  },
+  {
+    "name": "skip",
+    "category": "Music",
+    "description": "Skips the song currently playing",
+    "usage": "/skip"
+  },
+  {
+    "name": "skipto",
+    "category": "Music",
+    "description": "Skip to a specific position",
+    "usage": "/skipto"
+  },
+  {
+    "name": "stop",
+    "category": "Music",
+    "description": "Stop music and make the bot leave the voice channel",
+    "usage": "/stop"
+  },
+  {
+    "name": "volume",
+    "category": "Music",
+    "description": "Adjusts the volume of the bot",
+    "usage": "/volume <number>"
+  },
+  {
+    "name": "volume",
+    "category": "Playlist",
+    "description": "Adjusts the volume of the bot",
+    "usage": "/volume"
+  },
+  {
+    "name": "pl-add",
+    "category": "Playlist",
+    "description": "Add song to a playlist",
+    "usage": "/pl-add"
+  },
+  {
+    "name": "pl-all",
+    "category": "Playlist",
+    "description": "View all your playlists",
+    "usage": "/pl-all <number>"
+  },
+  {
+    "name": "pl-create",
+    "category": "Playlist",
+    "description": "Create a new playlist",
+    "usage": "/pl-create <playlist_name> <playlist_description>"
+  },
+  {
+    "name": "pl-delete",
+    "category": "Playlist",
+    "description": "Delete a playlist",
+    "usage": "/pl-delete <playlist_id>"
+  },
+  {
+    "name": "pl-detail",
+    "category": "Playlist",
+    "description": "View all your playlists",
+    "usage": "/pl-detail <playlist_id> <number>"
+  },
+  {
+    "name": "pl-editor",
+    "category": "Playlist",
+    "description": "Edit playlist info for public",
+    "usage": "/pl-editor <playlist_id>"
+  },
+  {
+    "name": "pl-import",
+    "category": "Playlist",
+    "description": "Import a playlist to queue",
+    "usage": "/pl-import <playlist_id>"
+  },
+  {
+    "name": "pl-info",
+    "category": "Playlist",
+    "description": "Check the playlist infomation",
+    "usage": "/pl-info <playlist_id>"
+  },
+  {
+    "name": "pl-remove",
+    "category": "Playlist",
+    "description": "Remove a song from a playlist",
+    "usage": "/pl-remove <playlist_id>"
+  },
+  {
+    "name": "pl-savequeue",
+    "category": "Playlist",
+    "description": "Save the current queue to a playlist",
+    "usage": "/pl-savequeue <playlist_id>"
+  },
+  {
+    "name": "247",
+    "category": "Settings",
+    "description": "24/7 in voice channel",
+    "usage": "/247"
+  },
+  {
+    "name": "control-button",
+    "category": "Settings",
+    "description": "Enable or disable the player control buttons",
+    "usage": "/control-button <enable> or <disable>"
+  },
+  {
+    "name": "language",
+    "category": "Settings",
+    "description": "Change the language for the bot",
+    "usage": "/language <language>"
+  },
+  {
+    "name": "minecraft-setup",
+    "category": "Settings",
+    "description": "Setup a Minecraft for status monitor",
+    "usage": "/minecraft-setup <create> or <delete>"
+  },
+  {
+    "name": "prefix",
+    "category": "Settings",
+    "description": "Change the prefix for the bot",
+    "usage": "/prefix <input>"
+  },
+  {
+    "name": "premium-reedem",
+    "category": "Settings",
+    "description": "Redeem your premium code",
+    "usage": "/premium-reedem <type> <id> <code>"
+  },
+  {
+    "name": "notify twitch",
+    "category": "Settings",
+    "description": "Manage Twitch stream notify",
+    "usage": "/notify twitch <username> <channel> <content>"
+  },
+  {
+    "name": "notify youtube",
+    "category": "Settings",
+    "description": "Manage YouTube notify for live streams",
+    "usage": "/notify youtube <username> <channel> <content>"
+  },
+  {
+    "name": "reset-guild",
+    "category": "Settings",
+    "description": "Reset all database your guild",
+    "usage": "/reset-guild"
+  },
+  {
+    "name": "reset-user",
+    "category": "Settings",
+    "description": "Reset all database your account",
+    "usage": "/reset-user"
+  },
+  {
+    "name": "setup",
+    "category": "Settings",
+    "description": "Setup channel song request",
+    "usage": "/setup <create> or <delete>"
+  },
+  {
+    "name": "themes",
+    "category": "Settings",
+    "description": "Change themes music card",
+    "usage": "/themes <type> <themes>"
+  },
+  {
+    "name": "avatar",
+    "category": "Utils",
+    "description": "Change themes music card",
+    "usage": "/avatar <user>"
+  },
+  {
+    "name": "ban",
+    "category": "Utils",
+    "description": "Ban a user from the server",
+    "usage": "/ban <user>"
+  },
+  {
+    "name": "cat",
+    "category": "Utils",
+    "description": "Sends a random cat image",
+    "usage": "/cat"
+  },
+  {
+    "name": "github",
+    "category": "Utils",
+    "description": "Shows GitHub statistics of a user",
+    "usage": "/github <username>"
+  },
+  {
+    "name": "guild-info",
+    "category": "Utils",
+    "description": "Shows information about the server",
+    "usage": "/guild-info"
+  },
+  {
+    "name": "kick",
+    "category": "Utils",
+    "description": "Kick a user from the server",
+    "usage": "/kick <user>"
+  },
+  {
+    "name": "minecraft-stats",
+    "category": "Utils",
+    "description": "Get the status of your Minecraft server",
+    "usage": "/minecraft-stats"
+  },
+  {
+    "name": "member-info",
+    "category": "Utils",
+    "description": "Get information about a member",
+    "usage": "/member-info <user>"
+  },
+  {
+    "name": "purge",
+    "category": "Utils",
+    "description": "Purge messages from the channel",
+    "usage": "/purge <amount>"
+  },
+  {
+    "name": "quote",
+    "category": "Utils",
+    "description": "Sends a random Quote",
+    "usage": "/quote <categories>"
+  },
+  {
+    "name": "ticket-setup",
+    "category": "Utils",
+    "description": "Setup a ticket in your server",
+    "usage": "/ticket-setup <channel> <category>"
+  },
+  {
+    "name": "about",
+    "category": "Info",
+    "description": "Shows the bot information",
+    "usage": "/about"
+  },
+  {
+    "name": "disclaimers",
+    "category": "Info",
+    "description": "Shows some disclaimers",
+    "usage": "/disclaimers"
+  },
+  {
+    "name": "help",
+    "category": "Info",
+    "description": "Displays all commands that the bot has",
+    "usage": "/help"
+  },
+  {
+    "name": "info",
+    "category": "Info",
+    "description": "Shows the information of the Bot",
+    "usage": "/info"
+  },
+  {
+    "name": "invite",
+    "category": "Info",
+    "description": "Shows the invite information of the Bot",
+    "usage": "/invite"
+  },
+  {
+    "name": "lavalink",
+    "category": "Info",
+    "description": "Get the current Lavalink node information",
+    "usage": "/lavalink"
+  },
+  {
+    "name": "ping",
+    "category": "Info",
+    "description": "Shows the ping information of the Bot",
+    "usage": "/ping"
+  },
+  {
+    "name": "premium-check",
+    "category": "Info",
+    "description": "View your premium profile or guild premium profile",
+    "usage": "/premium-check"
+  },
+  {
+    "name": "privacy-policy",
+    "category": "Info",
+    "description": "Shows the privacy policy of the Bot",
+    "usage": "/privacy-policy"
+  },
+  {
+    "name": "rating",
+    "category": "Info",
+    "description": "Rating of the bot",
+    "usage": "/rating"
+  },
+  {
+    "name": "report",
+    "category": "Info",
+    "description": "Send a report bugs to the server support",
+    "usage": "/report"
+  },
+  {
+    "name": "suggestions",
+    "category": "Info",
+    "description": "Send a suggestions to the server support",
+    "usage": "/suggestions"
+  },
+  {
+    "name": "terms-of-services",
+    "category": "Info",
+    "description": "Shows the terms of services of the Bot",
+    "usage": "/terms-of-services"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "name": "FanE",
+    "categories": ["Developers"],
+    "badge": "Founder",
+    "id": 1,
+    "description": "Lead Developer",
+    "imageUrl": "https://cdn.discordapp.com/avatars/1264847192783458364/a_e75c1b3f526a7ded0df337f604681e4f.gif?size=4096",
+    "websiteUrl": "https://fanedev.ro"
+  },
+  {
+    "name": "pericsq",
+    "categories": ["Developers"],
+    "badge": null,
+    "id": 2,
+    "description": "Developer",
+    "imageUrl": "https://cdn.discordapp.com/avatars/1104190543120044123/f9a238be475ec6c1b3094e5ab0087ab4.png?size=4096",
+    "websiteUrl": "https://www.easy-code.ro/"
+  },
+  {
+    "name": "Zooke",
+    "categories": ["Admins"],
+    "badge": null,
+    "id": 3,
+    "description": "Discord Admin, Ex-Developer",
+    "imageUrl": "https://cdn.discordapp.com/avatars/1184877187996856445/acb17bdaf24881c8688837e1260619cd.png?size=4096",
+    "websiteUrl": null
+  },
+  {
+    "name": "lordcara",
+    "categories": ["Contributors"],
+    "badge": null,
+    "id": 5,
+    "description": "Contributors",
+    "imageUrl": "https://cdn.discordapp.com/avatars/331800613383962625/92642397e0e56e943912d5e5e2bd3252.png?size=4096",
+    "websiteUrl": "https://gloxy.ro/"
+  },
+  {
+    "name": "QwizTuber",
+    "categories": ["Contributors"],
+    "badge": null,
+    "id": 5,
+    "description": "Contributors",
+    "imageUrl": "https://cdn.discordapp.com/avatars/348024739509567492/108088344c5fa4dfa55c2ae8d489a698.png?size=4096",
+    "websiteUrl": "https://five-host.com/aff.php?aff=91"
+  },
+  {
+    "name": "skrpt",
+    "categories": ["Contributors"],
+    "badge": null,
+    "id": 5,
+    "description": "Contributors",
+    "imageUrl": "https://cdn.discordapp.com/avatars/262187057470898177/a_6fcff936972532bec7ae843e332570f9.gif?size=4096",
+    "websiteUrl": "https://tried.ro"
+  },
+  {
+    "name": "Playerul1",
+    "categories": ["Beta Testers"],
+    "badge": null,
+    "id": 6,
+    "description": "Beta Tester",
+    "imageUrl": "https://cdn.discordapp.com/avatars/662015054023229454/2df9297e949089f45dccd7d2783d084c.png?size=4096",
+    "websiteUrl": null
+  },
+  {
+    "name": "Stringer",
+    "categories": ["Beta Testers"],
+    "badge": null,
+    "id": 7,
+    "description": "Beta Tester",
+    "imageUrl": "https://cdn.discordapp.com/avatars/344061394146295808/0064c71792781e5f6a91f376e470551a.png?size=4096",
+    "websiteUrl": null
+  },
+  {
+    "name": "Krusher",
+    "categories": ["Beta Testers"],
+    "badge": null,
+    "id": 8,
+    "description": "Beta Tester",
+    "imageUrl": "https://cdn.discordapp.com/avatars/277944472338300938/9b09b5ecc9086ace905e68cb27d2248e.png?size=4096",
+    "websiteUrl": null
+  },
+  {
+    "name": "alee",
+    "categories": ["Beta Testers"],
+    "badge": null,
+    "id": 9,
+    "description": "Beta Tester",
+    "imageUrl": "https://cdn.discordapp.com/avatars/1323444524961497160/c330a802cab97c1eb41f423950e7543b.png?size=4096",
+    "websiteUrl": null
+  },
+  {
+    "name": "deus",
+    "categories": ["Beta Testers"],
+    "badge": null,
+    "id": 10,
+    "description": "Beta Tester",
+    "imageUrl": "https://cdn.discordapp.com/avatars/1106158575522414642/32272aaef10d8b138798864ab838bd8a.png?size=4096",
+    "websiteUrl": null
+  },
+  {
+    "name": "s.rob3rta",
+    "categories": ["Beta Testers"],
+    "badge": null,
+    "id": 11,
+    "description": "Beta Tester",
+    "imageUrl": "https://cdn.discordapp.com/avatars/998633813506789436/79651c2797e65e137a7b49088030c240.png?size=4096",
+    "websiteUrl": null
+  },
+  {
+    "name": "Cata",
+    "categories": ["Beta Testers"],
+    "badge": null,
+    "id": 12,
+    "description": "Beta Tester",
+    "imageUrl": "https://cdn.discordapp.com/guilds/988445875921637407/users/898850525787881482/avatars/a_b3e020f7ddc14e2c1af5bf1189d2c0d4.gif",
+    "websiteUrl": null
+  },
+  {
+    "name": "zEmi_69 - BANATSYNC",
+    "categories": ["Beta Testers"],
+    "badge": null,
+    "id": 13,
+    "description": "Beta Tester",
+    "imageUrl": "https://cdn.discordapp.com/avatars/1161045403299483728/be4aed178d5425c1b805d4ff1009eda1.png?size=4096",
+    "websiteUrl": null
+  },
+  {
+    "name": "Levi",
+    "categories": ["Beta Testers"],
+    "badge": null,
+    "id": 14,
+    "description": "Beta Tester",
+    "imageUrl": "https://cdn.discordapp.com/avatars/573150904572706817/bdb55acfc3bd8af43f0cef73bb81f8d6.png?size=4096",
+    "websiteUrl": null
+  }
+]

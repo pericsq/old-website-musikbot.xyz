@@ -1,0 +1,159 @@
+/* Style for the main section (relevant to ServerSection component) */
+section.servers {
+  text-align: center;
+  position: relative;
+  background-image: linear-gradient(
+    to right,
+    rgb(20, 20, 20),
+    rgba(20, 20, 20, 1)
+  );
+  padding: 40px 0;
+}
+
+/* Style for the main heading (relevant to ServerSection component) */
+section.servers h2 {
+  font-size: 50px;
+  font-weight: 700;
+  color: #fff;
+  text-align: center;
+  margin: 0 17vw;
+}
+
+@media screen and (max-width: 1300px) {
+  section.servers h2 {
+    margin: 0 50px;
+  }
+}
+
+/* Style for the sub-heading (relevant to ServerSection component) */
+section.servers h3 {
+  font-size: 26px;
+  color: #fff;
+  font-weight: 500;
+  text-align: center;
+  margin: 0 17vw;
+}
+
+@media screen and (max-width: 1300px) {
+  section.servers h3 {
+    margin: 0 50px;
+  }
+}
+
+/* Style for the link within the sub-heading (relevant to ServerSection component) */
+section.servers h3 span {
+  color: #35f605;
+  font-weight: 600;
+  text-align: center;
+  background: #8d7f7f;
+  display: inline;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+/* Style for the server cards (relevant to ServerSection component) */
+.server-card {
+  display: flex;
+  align-items: center;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #252525;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease;
+}
+
+/* Hover effect for the server cards (relevant to ServerSection component) */
+.server-card:hover {
+  background-color: #1a1a1a;
+}
+
+/* Style for the server logo image (relevant to ServerSection component) */
+.server-card img {
+  user-select: none;
+  border-radius: 10px;
+  width: 60px;
+  height: 60px;
+  margin-right: 10px;
+}
+
+/* Style for the server details (relevant to ServerSection component) */
+.server-details {
+  flex-grow: 1;
+}
+
+/* Style for the server name (relevant to ServerSection component) */
+.server-name {
+  color: #5d83ec;
+  display: flex;
+  align-items: center;
+}
+
+/* Style for the verified and partnered badges (relevant to ServerSection component) */
+.server-name svg {
+  width: 20px;
+  height: 20px;
+  margin-left: 10px;
+}
+
+/* Style for the number of server members (relevant to ServerSection component) */
+.server-details p {
+  user-select: none;
+  color: #c0c0c0;
+  font-weight: 400;
+  font-size: 14px;
+  margin-left: 15px;
+}
+
+/* Style for the "Join" link (relevant to ServerSection component) */
+.server-card a {
+  display: inline-block;
+  padding: 8px 16px;
+  background-color: transparent;
+  color: #5d83ec;
+  text-decoration: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  opacity: 0;
+  transform: translateY(10px);
+}
+
+/* Show the "Join" link when hovering over the server card (relevant to ServerSection component) */
+.server-card:hover a {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Style for the server slider container (relevant to ServerSection component) */
+.servers-slider-container {
+  display: flex;
+  gap: 20px;
+  overflow: hidden;
+}
+
+/* Style for the server slider arrows (relevant to ServerSection component) */
+.server-slider-up,
+.server-slider-down {
+  width: 40px;
+  height: 40px;
+  color: #fff;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+/* Hover effect for the server slider arrows (relevant to ServerSection component) */
+.server-slider-up:hover,
+.server-slider-down:hover {
+  background-color: transparent;
+}
+
+/* Style to hide the scrollbar (relevant to ServerSection component) */
+.servers-slider-container::-webkit-scrollbar {
+  width: 0;
+  background: transparent;
+}

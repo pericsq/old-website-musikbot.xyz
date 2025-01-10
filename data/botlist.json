@@ -1,0 +1,86 @@
+[
+  [
+    {
+      "name": "Be ♥",
+      "members": "a discord bot music for the community",
+      "avatar": "be.gif",
+      "partnered": false,
+      "verified": true,
+      "invite": "https://yourbe.fun/"
+    },
+    {
+      "name": "Reedroux",
+      "members": "Play high quality music on discord for free",
+      "avatar": "reedroux.png",
+      "partnered": false,
+      "verified": true,
+      "invite": "https://reedroux.biz/invite"
+    },
+    {
+      "name": "Lofi Radio",
+      "members": "Lofi Radio is a bot that plays Lo-Fi Hip Hop music 24/7.",
+      "avatar": "lofiradio.webp",
+      "partnered": false,
+      "verified": true,
+      "invite": "https://discord.com/oauth2/authorize?client_id=830530156048285716&permissions=66407488&scope=bot%20applications.commands"
+    },
+    {
+      "name": "Lofi Girl",
+      "members": "The official bot by Lofi Girl playing lofi hip hop music 24/7",
+      "avatar": "lofigirl.webp",
+      "partnered": false,
+      "verified": true,
+      "invite": "https://botlofigirl.com/"
+    },
+    {
+      "name": "Miko Radio",
+      "members": "Your Melody,Your Way, Always Free to Play!",
+      "avatar": "mikoradio.png",
+      "partnered": false,
+      "verified": true,
+      "invite": "https://mikoradio.com/"
+    }
+  ],
+  [
+    {
+      "name": "Miko Radio",
+      "members": "Your Melody,Your Way, Always Free to Play!",
+      "avatar": "mikoradio.png",
+      "partnered": false,
+      "verified": true,
+      "invite": "https://mikoradio.com/"
+    },
+    {
+      "name": "Be ♥",
+      "members": "a discord bot music for the community",
+      "avatar": "be.gif",
+      "partnered": false,
+      "verified": true,
+      "invite": "https://yourbe.fun/"
+    },
+    {
+      "name": "Lofi Radio",
+      "members": "Lofi Radio is a bot that plays Lo-Fi Hip Hop music 24/7.",
+      "avatar": "lofiradio.webp",
+      "partnered": false,
+      "verified": true,
+      "invite": "https://discord.com/oauth2/authorize?client_id=830530156048285716&permissions=66407488&scope=bot%20applications.commands"
+    },
+    {
+      "name": "Lofi Girl",
+      "members": "The official bot by Lofi Girl playing lofi hip hop music 24/7",
+      "avatar": "lofigirl.webp",
+      "partnered": false,
+      "verified": true,
+      "invite": "https://botlofigirl.com/"
+    },
+    {
+      "name": "Reedroux",
+      "members": "Play high quality music on discord for free",
+      "avatar": "reedroux.png",
+      "partnered": false,
+      "verified": true,
+      "invite": "https://reedroux.biz/invite"
+    }
+  ]
+]
